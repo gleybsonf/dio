@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(241, 248, 248);
+    text-align: center;
+}
+
+button {
+    border: white;
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+    background-color: black;
+    color:rgb(241, 248, 248);
+    font-weight: bold;
+    font-size: medium;
+}
+
+span{
+    color: black;
+    font-weight: bold;
+    font-size: medium;
+}
