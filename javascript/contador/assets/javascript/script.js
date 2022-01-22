@@ -14,5 +14,5 @@ function decrement(){
 }
 
 function toCheckNumber(){
-    currentNumber < 1 ? currentNumberWrapper.style.color = 'red': currentNumberWrapper.style.color = 'black'
+    currentNumber < 0 ? currentNumberWrapper.style.color = 'red': currentNumberWrapper.style.color = 'black'
 }
